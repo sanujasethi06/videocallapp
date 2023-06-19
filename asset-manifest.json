@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videocallapp/static/css/main.eca1ec51.css",
+    "main.js": "/videocallapp/static/js/main.412f0bd0.js",
+    "static/js/787.d3befce1.chunk.js": "/videocallapp/static/js/787.d3befce1.chunk.js",
+    "index.html": "/videocallapp/index.html",
+    "main.eca1ec51.css.map": "/videocallapp/static/css/main.eca1ec51.css.map",
+    "main.412f0bd0.js.map": "/videocallapp/static/js/main.412f0bd0.js.map",
+    "787.d3befce1.chunk.js.map": "/videocallapp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca1ec51.css",
+    "static/js/main.412f0bd0.js"
+  ]
+}
